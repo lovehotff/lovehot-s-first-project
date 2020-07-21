@@ -1,1 +1,1 @@
-# lovehot-s-first-project
+# lovehot-first-project
